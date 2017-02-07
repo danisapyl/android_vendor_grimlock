@@ -1,0 +1,5 @@
+{
+    "otaid": "GrimlockOS",
+    "otaver": "DI103",
+    "otatime": "$(shell date -u +%Y%m%d)-$(shell time -u +%h%m)"
+}
