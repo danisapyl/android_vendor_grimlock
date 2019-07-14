@@ -1,5 +1,5 @@
 {
-    "otaid": "GrimlockOS",
-    "otaver": "DI103",
-    "otatime": "$(shell date -u +%Y%m%d)-2200"
+    "otaid": "DanisaOS",
+    "otaver": "AL100",
+    "otatime": "$(shell date -u +%Y%m%d)-3000"
 }
